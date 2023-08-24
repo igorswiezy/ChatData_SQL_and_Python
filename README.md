@@ -1,8 +1,7 @@
 # data_analysis
 
-AusEnergy Energy demand Analysis 2023
+ChatData Analysis 2023
 
-Energy demand analysis processed by me for AusEnergy this year.
-Contains total of demand in MWh and revenue with analysis how weather(such as Solar Exposure, temperature and rainfall) affects both demand and revenue for the company.
+Analysing dataset included in 3 files (posts, users and comments) pulled from Client's website/forum looking for any safety and privacy breaches in terms of GDPR.
 
-Presentation of provided spreadsheet with all the charts and tables wth my insights of what does they mean.
+Python combined with SQL used in Jupyter notebook.
